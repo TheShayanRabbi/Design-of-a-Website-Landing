@@ -9,7 +9,7 @@ The contemporary web is in a state of entropy. As tools for web creation become 
 this is a test.  I am adding this via Antigravaty. </br>
 
 These are the colors I want to use</br>
-:root {
+:root { </br>
   --chassis-blue: #030069; </br>
   --signal-orange: #FA6800; </br>
   --text-platinum: #E5E5E5; </br>
